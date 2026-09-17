@@ -1,0 +1,18 @@
+{"text": "INS-L6-027 Calibrate transmitter 027 at Unit 2 completed, 50%.", "truth": "INS-L6-027", "discipline": "instrumentation", "category": "exact"}
+{"text": "Install line 030 at R03 completed, 100%.", "truth": "PIP-L6-030", "discipline": "piping", "category": "synonym"}
+{"text": "Install cable tray 033 at R03 completed, 50% and cable tray installation started at R03.", "truth": "ELE-L6-033", "discipline": "electrical", "category": "multi_event"}
+{"text": "Foundation 036 at Area A completed, 100%.", "truth": "CIV-L6-036", "discipline": "civil", "category": "location"}
+{"text": "Install pump 039 at Unit 2 complet3d, 50%.", "truth": "ROT-L6-039", "discipline": "rotating_equipment", "category": "typo"}
+{"text": "Safety inspection 042 at Site completed, 100%.", "truth": "HSE-L6-042", "discipline": "hse", "category": "exact"}
+{"text": "STA-L6-045 Erect vessel 045 at Unit 2 completed, 50%.", "truth": "STA-L6-045", "discipline": "static_equipment", "category": "exact"}
+{"text": "Calibrate transmitter 048 at Unit 2 completed, 100%.", "truth": "INS-L6-048", "discipline": "instrumentation", "category": "synonym"}
+{"text": "Unknown work package ZZ-110 at offshore platform, 20%.", "truth": null, "discipline": "piping", "category": "unmatched"}
+{"text": "Install cable tray 054 at rack 3 completed, 100%.", "truth": "ELE-L6-054", "discipline": "electrical", "category": "location"}
+{"text": "Foundation 057 at Area A complet3d, 50%.", "truth": "CIV-L6-057", "discipline": "civil", "category": "typo"}
+{"text": "Install pump 060 at Unit 2 completed, 100%.", "truth": "ROT-L6-060", "discipline": "rotating_equipment", "category": "exact"}
+{"text": "HSE-L6-063 Safety inspection 063 at Site completed, 50%.", "truth": "HSE-L6-063", "discipline": "hse", "category": "exact"}
+{"text": "Install vessel 066 at Unit 2 completed, 100%.", "truth": "STA-L6-066", "discipline": "static_equipment", "category": "synonym"}
+{"text": "Calibrate transmitter 069 at Unit 2 completed, 50%.", "truth": "INS-L6-069", "discipline": "instrumentation", "category": "abbreviation"}
+{"text": "Erect line 072 at R03 completed, 50% and cable tray installation started at R03.", "truth": "PIP-L6-072", "discipline": "piping", "category": "multi_event"}
+{"text": "Install cable tray 075 at R03 complet3d, 50%.", "truth": "ELE-L6-075", "discipline": "electrical", "category": "typo"}
+{"text": "Foundation 078 at Area A completed, 100%.", "truth": "CIV-L6-078", "discipline": "civil", "category": "exact"}
